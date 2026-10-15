@@ -37,6 +37,16 @@
       "description": "Text from images and scanned PDFs on macOS: vision-language model versus OCR engine, an Apple Vision helper, why embossed cards defeat bitonal scans, and extraction without exposing sensitive values.",
       "category": "macos",
       "homepage": "https://github.com/johntrandall/claude-plugin-macos-ocr"
+    },
+    {
+      "name": "ptouch-labels",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/johntrandall/claude-plugin-ptouch-labels.git"
+      },
+      "description": "Tape labels on Brother P-touch network printers (PT-P750W, PT-P950NW) through the ptouch-label CLI: tape probing, hi-res raster printing, half-cut strips, calibration, troubleshooting.",
+      "category": "printing",
+      "homepage": "https://github.com/johntrandall/claude-plugin-ptouch-labels"
     }
   ]
 }
