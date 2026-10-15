@@ -10,7 +10,10 @@
   "plugins": [
     {
       "name": "mermaid",
-      "source": { "source": "github", "repo": "johntrandall/claude-plugin-mermaid" },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/johntrandall/claude-plugin-mermaid.git"
+      },
       "description": "Mermaid diagrams that parse the first time: syntax reference, SVG/PNG/ASCII rendering, real product icons, and a hook that checks every .mermaid write.",
       "category": "diagrams",
       "homepage": "https://github.com/johntrandall/claude-plugin-mermaid"
