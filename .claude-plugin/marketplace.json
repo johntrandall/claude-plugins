@@ -1,0 +1,19 @@
+{
+  "name": "johntrandall-plugins",
+  "owner": {
+    "name": "John Randall",
+    "url": "https://github.com/johntrandall"
+  },
+  "metadata": {
+    "description": "John Randall's public Claude Code plugins. Each plugin lives in its own repository."
+  },
+  "plugins": [
+    {
+      "name": "mermaid",
+      "source": { "source": "github", "repo": "johntrandall/claude-plugin-mermaid" },
+      "description": "Mermaid diagrams that parse the first time: syntax reference, SVG/PNG/ASCII rendering, real product icons, and a hook that checks every .mermaid write.",
+      "category": "diagrams",
+      "homepage": "https://github.com/johntrandall/claude-plugin-mermaid"
+    }
+  ]
+}
