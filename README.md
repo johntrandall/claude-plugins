@@ -21,6 +21,7 @@ Then install a plugin with `/plugin install <name>@johntrandall-plugins`, or bro
 | macos-ocr | Text from images and scanned PDFs on macOS: VLM versus OCR engine, Apple Vision helper, embossed cards, safe extraction | [claude-plugin-macos-ocr](https://github.com/johntrandall/claude-plugin-macos-ocr) |
 | ptouch-labels | Tape labels on Brother P-touch network printers through the ptouch-label CLI: probing, hi-res, half-cut strips, calibration | [claude-plugin-ptouch-labels](https://github.com/johntrandall/claude-plugin-ptouch-labels) |
 | 3d-printing | FDM 3D-printing knowledge: filaments, sourcing, storage, recycling, models and tools, code CAD with build123d, model publishing | [claude-plugin-3d-printing](https://github.com/johntrandall/claude-plugin-3d-printing) |
+| obsidian-track-changes-agent | AI agents take part in CriticMarkup review in Obsidian: they propose and comment as tracked changes; you accept or reject with the Track Changes plugin | [claude-plugin-obsidian-track-changes-agent](https://github.com/johntrandall/claude-plugin-obsidian-track-changes-agent) |
 
 Issues about a plugin go to that plugin's repository.
 
