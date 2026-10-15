@@ -27,6 +27,16 @@
       "description": "Shipping and return label PDFs onto peel-and-stick half-sheet sticker stock, and QR codes or images onto plain paper (macOS + CUPS).",
       "category": "printing",
       "homepage": "https://github.com/johntrandall/claude-plugin-mailing-labels"
+    },
+    {
+      "name": "macos-ocr",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/johntrandall/claude-plugin-macos-ocr.git"
+      },
+      "description": "Text from images and scanned PDFs on macOS: vision-language model versus OCR engine, an Apple Vision helper, why embossed cards defeat bitonal scans, and extraction without exposing sensitive values.",
+      "category": "macos",
+      "homepage": "https://github.com/johntrandall/claude-plugin-macos-ocr"
     }
   ]
 }
