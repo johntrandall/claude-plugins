@@ -17,6 +17,16 @@
       "description": "Mermaid diagrams that parse the first time: syntax reference, SVG/PNG/ASCII rendering, real product icons, and a hook that checks every .mermaid write.",
       "category": "diagrams",
       "homepage": "https://github.com/johntrandall/claude-plugin-mermaid"
+    },
+    {
+      "name": "mailing-labels",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/johntrandall/claude-plugin-mailing-labels.git"
+      },
+      "description": "Shipping and return label PDFs onto peel-and-stick half-sheet sticker stock, and QR codes or images onto plain paper (macOS + CUPS).",
+      "category": "printing",
+      "homepage": "https://github.com/johntrandall/claude-plugin-mailing-labels"
     }
   ]
 }

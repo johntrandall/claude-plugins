@@ -17,6 +17,7 @@ Then install a plugin with `/plugin install <name>@johntrandall-plugins`, or bro
 | Plugin | What it does | Repository |
 |---|---|---|
 | mermaid | Mermaid syntax reference, SVG/PNG/ASCII rendering, real product icons, and a hook that checks every `.mermaid` write | [claude-plugin-mermaid](https://github.com/johntrandall/claude-plugin-mermaid) |
+| mailing-labels | Shipping and return label PDFs onto half-sheet sticker stock, and QR codes or images onto paper (macOS + CUPS) | [claude-plugin-mailing-labels](https://github.com/johntrandall/claude-plugin-mailing-labels) |
 
 Issues about a plugin go to that plugin's repository.
 
