@@ -47,6 +47,16 @@
       "description": "Tape labels on Brother P-touch network printers (PT-P750W, PT-P950NW) through the ptouch-label CLI: tape probing, hi-res raster printing, half-cut strips, calibration, troubleshooting.",
       "category": "printing",
       "homepage": "https://github.com/johntrandall/claude-plugin-ptouch-labels"
+    },
+    {
+      "name": "3d-printing",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/johntrandall/claude-plugin-3d-printing.git"
+      },
+      "description": "FDM 3D-printing knowledge: filaments and drying, sourcing, storage and maintenance, recycling, models and tools, code CAD with build123d, publishing models. Bambu A1 notes included; no printer control.",
+      "category": "making",
+      "homepage": "https://github.com/johntrandall/claude-plugin-3d-printing"
     }
   ]
 }
