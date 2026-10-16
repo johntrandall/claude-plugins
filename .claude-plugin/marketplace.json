@@ -67,6 +67,16 @@
       "description": "Lets AI agents take part in CriticMarkup review in Obsidian: agents propose and comment as tracked changes, and you accept or reject them with the Track Changes plugin.",
       "category": "writing",
       "homepage": "https://github.com/johntrandall/claude-plugin-obsidian-track-changes-agent"
+    },
+    {
+      "name": "watchbill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/johntrandall/claude-plugin-watchbill.git"
+      },
+      "description": "A role model for multi-agent work in herdr with a human in the loop: architect and steward seats, rules and run leads, crew sub-types, historians, paper trails and watchers. Optional: obsidian-track-changes-agent for collaborative drafting.",
+      "category": "agent-operations",
+      "homepage": "https://github.com/johntrandall/claude-plugin-watchbill"
     }
   ]
 }
